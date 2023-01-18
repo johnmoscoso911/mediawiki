@@ -1,16 +1,12 @@
-# mediawiki
+# TRIVIA v1.0
 
-A new Flutter project.
+Proyecto para probar tus conocimientos de biología para 1º bachillerato.
 
-## Getting Started
+## Características
 
-This project is a starting point for a Flutter application.
+Uso de variables, listas y números aleatorios.
 
-A few resources to get you started if this is your first Flutter project:
+Seleccionar 7 preguntas al azar de un banco de 30 preguntas sobre biología:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Guardar las preguntas y la respuesta del participante en una nueva lista,
+pasarlas como parámetro y contabilizar las respuestas correctas e incorrectas.
